@@ -1,0 +1,1 @@
+function onShoppingLink() {try{fbq('track', 'AddToCart');}catch{}window.open('http://qr.kakao.com/talk/9xFmlbnNWGipf7EL07fVvF1rwDg-'); }
